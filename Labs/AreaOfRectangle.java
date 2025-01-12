@@ -1,3 +1,4 @@
+package Labs;
 class Rectangle {
 
     // initialize variables

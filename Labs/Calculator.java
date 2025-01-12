@@ -1,3 +1,4 @@
+package Labs;
 // Assignment-2. 
 // • Write a Java program that demonstrates method overloading by creating a class called Calculator. 
 // • Add three methods called add(). 

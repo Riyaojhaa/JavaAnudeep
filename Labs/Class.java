@@ -1,3 +1,4 @@
+package Labs;
 // Assignment-3. 
 // • Create a Java Bean Class Student.  
 // • Add three attributes ;

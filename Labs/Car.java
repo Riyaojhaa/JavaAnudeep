@@ -1,3 +1,4 @@
+package Labs;
 // Assignment-1. 
 // ● Write a Java program named Car 
 // ● The Car class should have the following attributes: make (String), model (String) , year (short) , and price(int) . 
